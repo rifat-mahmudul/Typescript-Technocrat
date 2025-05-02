@@ -16,6 +16,10 @@
 //function with generics
 //constraints in typescript
 //generic constraint with keyof operator
+//asynchronous typescript
+//conditional types
+//mapped types
+//utility types
 
 interface Developer<T> {
   name: string;
